@@ -1,8 +1,10 @@
-# Ingredients
+# IngredientsZZ
 
-2
+## Urikoji
 
-Ready-made Dried Koji (Urikoji): This koji is prepared by drying fresh koji on large screens in an oven at 104°F. Both ready-made rice and barley koji are now available in the West at most natural food stores and at Japanese food markets (especially at New Years). The main U.S. producer is Miyako Oriental Foods in Los Angeles. In 1983 a 20-ounce tub of their white rice koji retailed for $3.46, or the equivalent of $2.77 a pound. Names of other makers, importers, and distributors are given on page 258. There are two basic types of ready-made dried koji:
+Ready-made Dried Koji (Urikoji)
+
+This koji is prepared by drying fresh koji on large screens in an oven at 104°F. Both ready-made rice and barley koji are now available in the West at most natural food stores and at Japanese food markets (especially at New Years). The main U.S. producer is Miyako Oriental Foods in Los Angeles. In 1983 a 20-ounce tub of their white rice koji retailed for $3.46, or the equivalent of $2.77 a pound. Names of other makers, importers, and distributors are given on page 258. There are two basic types of ready-made dried koji:
 Firm Granular Koji is composed of whole separate kernels of rice or barley with very little downy white mycelium visible on the surface of each grain. The beige or milky-white kernels look something like slightly puffed rice. One variety used primarily for making miso and one for salt-pickled vegetables (tsukemono). Miyako makes the miso type.
 Soft Mat Koji is sold in sheets about 8 to 10 inches square and 3/4 inch thick. It is composed of fluffy grains of steamed rice bound together by a felt-like white mycelium resembling the nap on a brand new tennis ball. This koji is used primarily to prepare homemade Amazaké (p. 162) but also works well in the preparation of both miso and salt-pickled vegetables.
 
@@ -33,5 +35,6 @@ Seed Miso: Use any good-quality mature miso, either from a previous batch of you
 Either boiled water or the cooking liquid remaining after boiling the soybeans is mixed with the other ingredients to give the miso its proper moisture content. In Japan, this is called "seed water" (tané mizu). Fresh water, unless taken from a very pure deep well, is always boiled to assure that no contaminating microorganisms are present. From November until early April, soybean cooking liquid gives excellent results and helps make full use of the soybean nutrients. However, if the miso is prepared during the warm half of the year, water should be used since the soybean cooking liquid may encourage spoilage; in this case, cook the soybeans so that very little liquid remains at the end. If you want to try to use cooking liquid during the warmer part of the year, mix the liquid with 3 tablespoons salt as soon as it has drained from the beans, and reduce the salt added with the other ingredients accordingly.
 
 The proper amount of liquid to be added to any given mixture of ingredients is difficult to specify exactly since it depends upon the moisture level of the koji and the moisture losses through the vat (which are determined by the vat's size and construction). If too much liquid is added, the miso can easily over-ferment and develop a strong alcoholic aroma. The miso's moisture content can be adjusted during fermentation by simply increasing or decreasing the pressing weight.
-Alternate Carbohydrate Sources: For rice or barley koji, you may substitute up to 50 percent cornmeal or corn, sweet potatoes, Irish potatoes, or kabocha; these foods should be well steamed or boiled (see Variation 5). Wheat koji may be substituted in equal parts. See also page 44.
+Alternate Carbohydrate Sources: For rice or barley koji, you may substitute up to 50 percent cornmeal or corn, sweet potatoes, Irish potatoes, or kabocha; these foods should be well steamed or boiled (see Variation 5). Wheat koji may be substituted in equal parts.
+
 Alternate Protein Sources: For soybeans, you may substitute up to 100 percent broad, black, azuki, lima, or garbanzo beans, or others listed on page 44. Indian pulses (Bengal gram, Thur dhal, green gram, and Field beans) also work well. If 10 to 20 percent soybeans (and peanuts) are used together with these ingredients, the amino acid balance and total usable protein will be considerably enhanced.
