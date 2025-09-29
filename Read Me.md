@@ -1,4 +1,4 @@
-# IngredientsZZ
+# Ingredients
 
 ## Urikoji
 
