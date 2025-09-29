@@ -1,5 +1,6 @@
 # Ingredients
 
+2
 
 Ready-made Dried Koji (Urikoji): This koji is prepared by drying fresh koji on large screens in an oven at 104°F. Both ready-made rice and barley koji are now available in the West at most natural food stores and at Japanese food markets (especially at New Years). The main U.S. producer is Miyako Oriental Foods in Los Angeles. In 1983 a 20-ounce tub of their white rice koji retailed for $3.46, or the equivalent of $2.77 a pound. Names of other makers, importers, and distributors are given on page 258. There are two basic types of ready-made dried koji:
 Firm Granular Koji is composed of whole separate kernels of rice or barley with very little downy white mycelium visible on the surface of each grain. The beige or milky-white kernels look something like slightly puffed rice. One variety used primarily for making miso and one for salt-pickled vegetables (tsukemono). Miyako makes the miso type.
@@ -14,11 +15,11 @@ Ready-made Fresh Koji: Excellent quality fresh rice koji, produced by Miyako Ori
 
 Any salt may be used, but to make miso with the best flavor and nutritional value, use sun-dried, unrefined natural sea salt, now available at some natural and health food stores and very rich in minerals (more than 63 varieties). You can prepare your own natural salt by simmering clean sea water in a large kettle until almost all of the moisture has evaporated, placing the moist salt in a cloth-lined colander or strainer, and allowing it to drain for several days; measure homemade salt by volume rather than weight when using it to make miso. (Save the liquid nigari that drips from the salt to use in preparing tofu.)
 The salt in miso mellows as the fermentation proceeds; thus miso which tastes quite salty after six months may taste just right one year later. To compensate for this phenomenon, some recipes increase the proportion of salt together with the expected fermentation time. Whereas a 1-year red miso might, for example, require 2 1/2 pounds of salt, the same product fermented for 2 1/2 years would require 4 pounds.
-People wishing to prepare low-salt misos should make either sweet red or sweet white varieties; do not simply try to reduce the salt in other types or they may spoil. As a general rule, the minimum amount of salt used with a given weight of grain or dried koji should not fall below the broken line in figure 30. 
+People wishing to prepare low-salt misos should make either sweet red or sweet white varieties; do not simply try to reduce the salt in other types or they may spoil. As a general rule, the minimum amount of salt used with a given weight of grain or dried koji should not fall below the broken line in figure 30.
 
 The equation for this minimum amount is:
 S=45−G10 S = \frac{45 - G}{10}S=1045−G​
-where SSS is the weight in pounds of salt and GGG is the weight in pounds of grain or dried koji used with 10 pounds of dry soybeans. 
+where SSS is the weight in pounds of salt and GGG is the weight in pounds of grain or dried koji used with 10 pounds of dry soybeans.
 
 Thus a recipe calling for 10 pounds each soybeans and dried rice koji should not contain less than 3.5 pounds salt.
 
@@ -27,7 +28,7 @@ Thus a recipe calling for 10 pounds each soybeans and dried rice koji should not
 Any water may be used for cooking the soybeans or as mixing liquid (below), but fresh pure water—from a deep well, spring, or distilled—has traditionally been considered to give the best flavor and most trouble-free fermentation. Water containing an abundance of chlorine or other chemicals may somewhat retard the activity of miso's microorganisms, while impure water may introduce contaminating microorganisms.
 Seed Miso: Use any good-quality mature miso, either from a previous batch of your own making or commercial miso which has not been pasteurized and contains no preservatives. The use of a small amount of seed miso as an inoculum adds large numbers of yeasts and bacteria to the unfermented ingredients thereby enhancing the aroma and flavor of the finished product and reducing the fermentation time by up to 50 percent. It is best to use seed miso of the same variety as the miso you wish to prepare, but any miso will work.
 
-## Mixing Liquid 
+## Mixing Liquid
 
 Either boiled water or the cooking liquid remaining after boiling the soybeans is mixed with the other ingredients to give the miso its proper moisture content. In Japan, this is called "seed water" (tané mizu). Fresh water, unless taken from a very pure deep well, is always boiled to assure that no contaminating microorganisms are present. From November until early April, soybean cooking liquid gives excellent results and helps make full use of the soybean nutrients. However, if the miso is prepared during the warm half of the year, water should be used since the soybean cooking liquid may encourage spoilage; in this case, cook the soybeans so that very little liquid remains at the end. If you want to try to use cooking liquid during the warmer part of the year, mix the liquid with 3 tablespoons salt as soon as it has drained from the beans, and reduce the salt added with the other ingredients accordingly.
 
